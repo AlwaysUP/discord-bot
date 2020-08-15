@@ -1,3 +1,9 @@
+# These resources will be specific to your use case
+resources/audio/
+resources/pics/
+
+*.txt
+
 # Logs
 logs
 *.log
