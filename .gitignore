@@ -1,6 +1,7 @@
 # These resources will be specific to your use case
 resources/audio/
 resources/pics/
+resources/html/
 
 *.txt
 
