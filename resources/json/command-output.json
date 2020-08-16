@@ -1,0 +1,5 @@
+{
+    "help" : "Hey there! The commands are:\n`##help: return this`\n`##play: play with youtube url plays music`\n`##leave: disconnects bot from voice channel`\n`##pause: pause music`\n`##resume: resumes music`\n`##cat: return a cat pic`\n`##bear: return a running bear`\n`##hi: sends a greeting`\n`##bye: bids farewell`\n`##sad-noises: play sad music`",
+    "hi" : "Howdy!",
+    "bye" : "Take care! :hearts:"
+}
